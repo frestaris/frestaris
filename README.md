@@ -54,13 +54,13 @@ I value <strong>clean, maintainable code</strong>, intuitive UI/UX, and performa
 
 ### 🚀 **Featured Projects**
 
-🔹 **[Portfolio v2.0](https://github.com/frestaris/portfolio-v2)**  
+🔹 **[Portfolio v2.0](https://github.com/frestaris/portfolioV.2.0)**  
 My personal developer portfolio — designed and built from scratch using React, Tailwind CSS, and Framer Motion. Includes an about section, project gallery, contact form, and responsive layout optimized for all devices.
 
-🔹 **[Social Hub – Creator-Focused Social Media Platform](https://github.com/frestaris/social-hub)**  
+🔹 **[Social Hub – Creator-Focused Social Media Platform](https://github.com/frestaris/SocialHub)**  
 A full-stack social media app combining features of YouTube, Instagram, and LinkedIn — featuring real-time chat, notifications, Firebase Authentication (Google & GitHub), and category-based content feeds.
 
-🔹 **[Plant E-Commerce Platform](https://github.com/frestaris/plant-store)**  
+🔹 **[Plant E-Commerce Platform](https://github.com/frestaris/Full-stack-e-commerce--Plants-website--React)**  
 A modern e-commerce platform with JWT authentication, product filtering, reviews, Stripe integration, and an admin dashboard for product management.
 
 ---
